@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cuisine"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Cuisine"/>
+
+    <item
+        android:id="@+id/dishes"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Dishes" />
+
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/ic_cart"
+        android:title="Cart" />
+
+    <item
+        android:id="@+id/languge"
+        android:icon="@drawable/ic_language"
+        android:title="Language" />
+
+</menu>
